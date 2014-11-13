@@ -1,7 +1,25 @@
 /* Your Website Styles */
 
+h1 {
+	color: #C7FF00;
+	font-family: 'Black Ops One', sans-serif;
+	font-size: 8em;
+	margin: 4px;
+	text-align: right;
+}
+
+body {
+	background-image: url('../img/black.png');
+	color: white;
+	font-family: 'Coda'; sans-serif;
+	margin: 80px
+}
+
+h3 {
+	color: #FF3B2F;
+	font-family: 'Black Ops One', sans-serif; }
+
+
 
 /* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
-}
+
