@@ -9,7 +9,8 @@ h1 {
 }
 
 body {
-	background-image: url('../img/black.png');
+	background-image: url('../img/steel.jpg'); 
+	background-repeat: repeat;
 	color: white;
 	font-family: 'Coda'; sans-serif;
 	margin: 80px
